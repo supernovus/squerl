@@ -1,0 +1,7 @@
+{
+  "name"        : "Squerl",
+  "version"     : "*",
+  "description" : "SQL Abstraction library",
+  "depends"     : [ "Perl6::Sqlite" ],
+  "source-url"  : "git://github.com/supernovus/squerl.git"
+}
